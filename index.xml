@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<index version="1">
+  <category name="Reaper Connect Collab">
+    <reapack name="Net_Send_Stem_And_State.lua" type="script">
+      <version name="1.0.0" author="[TUO NOME]" time="2025-11-21T12:00:00Z">
+        <source file="Net_Send_Stem_And_State.lua" type="script" lang="lua"/>
+        <description><![CDATA[
+Render + naming automatico degli stems per collaborazione.
+Crea file: [SongFolder]__[CommonTrackName]__[UserID]__[Timestamp]\Song.wav
+Cartella: C:\Users\<utente>\reaper connect\stems_local\
+        ]]></description>
+      </version>
+    </reapack>
+
+    <reapack name="Net_Import_Received_Stems.lua" type="script">
+      <version name="1.0.0" author="[TUO NOME]" time="2025-11-21T12:00:00Z">
+        <source file="Net_Import_Received_Stems.lua" type="script" lang="lua"/>
+        <description><![CDATA[
+Import automatico degli stems ricevuti da:
+C:\Users\<utente>\reaper connect\stems\<SongFolder>\
+Crea/aggiorna tracce con nomi basati sul CommonTrackName.
+        ]]></description>
+      </version>
+    </reapack>
+
+    <reapack name="Net_Apply_Session.lua" type="script">
+      <version name="1.0.0" author="[TUO NOME]" time="2025-11-21T12:00:00Z">
+        <source file="Net_Apply_Session.lua" type="script" lang="lua"/>
+        <description><![CDATA[
+(App opzionale) Applica vol/pan/mute/solo dalle sessioni condivise.
+        ]]></description>
+      </version>
+    </reapack>
+  </category>
+</index>
