@@ -1,0 +1,43 @@
+Reaper Connect Collaboration Tools – v1.0
+Proprietary License
+
+Copyright (c) 2025, [TUO NOME]
+Tutti i diritti riservati.
+
+1. OGGETTO
+   Questo software (inclusi ma non limitati a: script Lua, script Python, file di configurazione
+   e documentazione associata) è concesso in licenza, non venduto.
+
+2. DIRITTI CONCESSI
+   Al licenziatario è concesso il diritto non esclusivo e non trasferibile di:
+   - installare ed eseguire il software su un numero limitato di postazioni, definito nel contratto di licenza;
+   - utilizzare il software per uso personale o professionale, ma esclusivamente nei limiti previsti da questo testo.
+
+3. RESTRIZIONI
+   È espressamente vietato, salvo autorizzazione scritta del titolare dei diritti:
+   - copiare, distribuire o rivendere il software, in tutto o in parte, a terzi;
+   - modificare, decompilare, effettuare reverse engineering o creare opere derivate del software;
+   - pubblicare il codice sorgente, condividerlo pubblicamente o includerlo in progetti open source.
+
+4. PROPRIETÀ INTELLETTUALE
+   Tutti i diritti di proprietà intellettuale relativi al software rimangono esclusivamente del titolare dei diritti.
+   Nessuna parte di questo software può essere utilizzata per sviluppare prodotti concorrenti senza
+   autorizzazione scritta.
+
+5. NESSUNA GARANZIA
+   Il software è fornito "COSÌ COM'È", senza alcuna garanzia espressa o implicita, inclusa
+   ma non limitata alle garanzie di commerciabilità, idoneità per uno scopo particolare
+   e non violazione di diritti di terzi. L'utilizzo del software è a rischio esclusivo dell'utente.
+
+6. LIMITAZIONE DI RESPONSABILITÀ
+   In nessun caso il titolare dei diritti sarà responsabile per danni diretti, indiretti, incidentali,
+   speciali, consequenziali o punitivi derivanti dall'uso o dall'impossibilità di usare il software.
+
+7. LICENZE COMMERCIALI
+   Per utilizzare questo software in modalità commerciale, per rivenderlo o integrarlo in altri prodotti,
+   è necessario sottoscrivere un accordo di licenza commerciale con il titolare dei diritti.
+
+8. LEGGE APPLICABILE
+   Questa licenza è regolata dalla legge del Paese di residenza del titolare dei diritti, salvo diverso accordo scritto.
+
+
